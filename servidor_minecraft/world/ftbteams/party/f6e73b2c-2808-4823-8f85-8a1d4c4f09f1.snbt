@@ -1,0 +1,25 @@
+{
+	id: "f6e73b2c-2808-4823-8f85-8a1d4c4f09f1"
+	type: "party"
+	owner: "25a9dc60-fec4-3860-8608-2cf0c13ae39b"
+	ranks: {
+		25a9dc60-fec4-3860-8608-2cf0c13ae39b: "owner"
+		8141bd02-b9ac-3024-a000-dad72c6a1a1b: "member"
+		83833290-aa97-3e0d-afaa-ec379876819d: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "egolifter's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722573743533L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"egolifter\"}]}" }
+		{ from: "25a9dc60-fec4-3860-8608-2cf0c13ae39b", date: 1722573756250L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"agustin10\"}]}" }
+		{ from: "25a9dc60-fec4-3860-8608-2cf0c13ae39b", date: 1722573756250L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Hematopoyesis\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722573764981L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Hematopoyesis\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722573769722L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"agustin10\"}]}" }
+	]
+	extra: { }
+}

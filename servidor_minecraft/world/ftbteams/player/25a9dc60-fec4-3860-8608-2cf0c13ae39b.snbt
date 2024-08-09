@@ -1,0 +1,15 @@
+{
+	id: "25a9dc60-fec4-3860-8608-2cf0c13ae39b"
+	type: "player"
+	player_name: "egolifter"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "egolifter"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

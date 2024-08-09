@@ -1,0 +1,15 @@
+{
+	id: "8141bd02-b9ac-3024-a000-dad72c6a1a1b"
+	type: "player"
+	player_name: "Hematopoyesis"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Hematopoyesis"
+		"ftbteams:description": ""
+		"ftbteams:color": "#62FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

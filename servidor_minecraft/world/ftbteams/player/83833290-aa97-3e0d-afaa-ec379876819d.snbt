@@ -1,0 +1,15 @@
+{
+	id: "83833290-aa97-3e0d-afaa-ec379876819d"
+	type: "player"
+	player_name: "agustin10"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "agustin10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
